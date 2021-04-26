@@ -1,0 +1,8 @@
+<root>
+  <element attr="attr1">
+    leaf-1
+  </element>
+  <element attr="attr2">
+    leaf-2
+  </element>
+</root>
