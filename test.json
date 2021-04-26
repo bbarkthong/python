@@ -1,0 +1,8 @@
+{
+  leaf-1: {
+    attr: arrt1
+  },
+  leaf-2: {
+    attr: attr2
+  }
+}
